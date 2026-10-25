@@ -1,0 +1,8 @@
+{
+  "name": "Remix Split \u0026 Settle GenAI - Visa Hackathon Sandbox",
+  "description": "Agentic commerce app testing sandbox: multimodal receipt extraction via Gemini API, SQLite ledger, and Visa Direct settlement algorithm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
